@@ -11,11 +11,11 @@ function Team() {
                 <h1>Our Team</h1>
                 <ul>
                     <li>Mohamed Eljak</li>
-                    <li>Nora</li>
-                    <li>Theo</li>
-                    <li>Kaite</li>
-                    <li>Mat</li>
-                    <li>Jul</li>
+                    <li>Nora Wu</li>
+                    <li>Theo Coleman</li>
+                    <li>Katie Schilling</li>
+                    <li>Matias Duplock</li>
+                    <li>Juliet Urquhart</li>
                 </ul>
             </main>
             <Links />
