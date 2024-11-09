@@ -8,7 +8,7 @@ function App() {
         <Header /> 
         <div id="hero">
             <main class="middle">
-                <img id="coffee" src="./coffee.png" />
+                <img id="coffee" src="./coffee.png" alt="an image of a cafe building" />
                 <div>
                     <h1>University Simulation!</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis sapien non magna imperdiet, vitae sodales mauris iaculis.</p>

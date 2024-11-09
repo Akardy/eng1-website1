@@ -5,7 +5,7 @@ function Header() {
         <header> 
             <nav>
                 <ul>
-                    <img id="logo" src="./coffee.png" />
+                    <img id="logo" src="./coffee.png" alt="an image of a cafe building" />
                     <li><a href="./">Home</a></li>
                     <li><a href="./team">Team</a></li>
                     <li><a href="./team">Credits</a></li>
