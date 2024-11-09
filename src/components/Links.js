@@ -4,12 +4,13 @@ function Links() {
   return (
     <div class="block">
         <h1>Links:</h1>
-        <p>Download the Game</p>
-        <p>GitHub Repository</p>
-        <p>Requirements</p>
-        <p>Architecture</p>
-        <p>Method Selection/Planning</p>
-        <p>Risk Assessment/Mitigation</p>
+        <p><a href="#" target="_blank">Download the Game</a></p>
+        <p><a href="#" target="_blank">GitHub Repository</a></p>
+        <p><a href="#" target="_blank">Requirements</a></p>
+        <p><a href="#" target="_blank">Architecture</a></p>
+        <p><a href="#" target="_blank">Method Selection/Planning</a></p>
+        <p><a href="#" target="_blank">Risk Assessment/Mitigation</a></p>
+     
     </div>
   );
 }

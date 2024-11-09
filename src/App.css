@@ -76,6 +76,9 @@ header button:hover {
 .block p {
   padding: 0.5em 3em;
   background-color: #575b2a;
+}
+
+.block a {
   color: white;
 }
 
