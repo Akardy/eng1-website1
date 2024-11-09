@@ -73,13 +73,10 @@ header button:hover {
   gap: 1em;
 }
 
-.block p {
-  padding: 0.5em 3em;
-  background-color: #575b2a;
-}
-
 .block a {
   color: white;
+  padding: 0.5em 3em;
+  background-color: #575b2a;
 }
 
 .block p:hover {
@@ -154,8 +151,8 @@ main h1 {
     margin-bottom: 1em;
   }
 
-  .block p {
-    padding: 0.5em 1em;
+  .block a {
+   padding: 0.5em 1em;
   }
 
   /* Main Content */
