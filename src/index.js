@@ -6,7 +6,9 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './App';
-import Team from './Team';
+import Team from './pages/Team';
+import DesignProgress from './pages/DesignProgress';
+import WeeklySnapshots from './pages/WeeklySnapshots';
 
 const router = createBrowserRouter([
   {
@@ -16,6 +18,14 @@ const router = createBrowserRouter([
   {
     path: "/team",
     element: <Team />,
+  },
+  {
+    path: "/design",
+    element: <DesignProgress />,
+  },
+  {
+    path: "/weekly",
+    element: <WeeklySnapshots />,
   },
 ]);
 

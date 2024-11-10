@@ -5,7 +5,7 @@ function Links() {
     <div class="block">
         <h1>Links:</h1>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank" rel="noreferrer">Download the Game</a>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank" rel="noreferrer">GitHub Repository</a>
+        <a href="https://github.com/Akardy/Eng1-Assessment-1" target="_blank" rel="noreferrer">GitHub Repository</a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank" rel="noreferrer">Requirements</a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank" rel="noreferrer">Architecture</a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank" rel="noreferrer">Method Selection/Planning</a>

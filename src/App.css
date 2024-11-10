@@ -90,7 +90,7 @@ main {
   flex-direction: row;
   justify-self: center;
   align-items: center;
-  gap: 15px;
+  gap: 1em;
   width: 700px;
 }
 
@@ -98,6 +98,25 @@ main h1 {
   font-size: 2em;
   text-align: center;
   margin-bottom: 0.5em;
+}
+
+.middle-text {
+  text-align: center;
+}
+
+.middle-text p {
+  margin-bottom: 1.5em;
+}
+
+.learn-more {
+  color: white;
+  padding: 0.5em 1em;
+  background-color: #575b2a;
+}
+
+.learn-more:hover {
+  cursor: pointer;
+  background-color: #72773c;
 }
 
 #coffee {
@@ -113,6 +132,17 @@ main h1 {
 
 .team ul {
   flex-direction: column;
+}
+
+/** == Weekly Snapshots == **/
+.weekly-snapshots {
+  display: flex;
+  flex-direction: column;
+  width: 950px;
+}
+
+#snapshots-image {
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -160,6 +190,10 @@ main h1 {
     flex-direction: column;
     width: 100%; 
     padding: 1em;
+  }
+
+  .weekly-snapshots {
+    width: 100%;
   }
 
   #coffee {

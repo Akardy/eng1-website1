@@ -1,6 +1,7 @@
+import { Link } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
-import Links from './components/Links';
+import Links from "./components/Links";
 
 function App() {
   return (
@@ -9,9 +10,9 @@ function App() {
         <div id="hero">
             <main class="middle">
                 <img id="coffee" src="./coffee.png" alt="a cafe building" />
-                <div>
+                <div className='middle-text'>
                     <h1>University Simulation!</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis sapien non magna imperdiet, vitae sodales mauris iaculis.</p>
+                    <p>Design your ideal university campus in just 5 minutes! Make it fun and an exciting place for students!</p>
                 </div>
             </main>
             <Links />
