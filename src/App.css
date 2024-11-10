@@ -139,8 +139,14 @@ main h1 {
 .weekly-snapshots {
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   width: 950px;
 }
+
+.weekly-snapshots h3 {
+  margin-top: 2em;
+}
+
 
 #snapshots-image {
   width: 100%;
