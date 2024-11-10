@@ -9,6 +9,7 @@ function Team() {
             <div id="hero">
             <main class="team">
                 <h1>Our Team</h1>
+                <p>This is Team 4</p>
                 <ul>
                     <li>Mohamed Eljak</li>
                     <li>Nora Wu</li>
