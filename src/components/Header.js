@@ -13,7 +13,7 @@ function Header() {
                     <li><Link to="/weekly">Weekly Snapshots</Link></li>
                 </ul>
             </nav>
-            <button>Download the Game</button>
+            <a id="download" href="/UniSim.jar" target="_blank" rel="noreferrer">Download the Game</a>
         </header>     
   );
 }

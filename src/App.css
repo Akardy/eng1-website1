@@ -42,7 +42,7 @@ h1, p, h3 {
   padding: 0;
 }
 
-header button {
+header #download {
   font-family: inherit;
   border-radius: 5px;
   align-self: center;
@@ -53,7 +53,7 @@ header button {
   font-size: 20px;
 }
 
-header button:hover {
+header #download:hover {
   background-color: #72773c;
   cursor: pointer;
 }
