@@ -9,8 +9,8 @@ function Links() {
         <a href="/Req1.pdf" target="_blank" rel="noreferrer">Requirements</a>
         <a href="/Arch1.pdf" target="_blank" rel="noreferrer">Architecture</a>
         <a href="/Impl1.pdf" target="_blank" rel="noreferrer">Implementation</a>
-        <a href="/Plan1" target="_blank" rel="noreferrer">Method Selection/Planning</a>
-        <a href="/Risk1" target="_blank" rel="noreferrer">Risk Assessment/Mitigation</a>
+        <a href="/Plan1.pdf" target="_blank" rel="noreferrer">Method Selection/Planning</a>
+        <a href="/Risk1.pdf" target="_blank" rel="noreferrer">Risk Assessment/Mitigation</a>
      
     </div>
   );
